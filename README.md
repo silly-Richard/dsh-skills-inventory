@@ -19,7 +19,7 @@ A **Skills** page for the [DeepSeek Harness](https://github.com/deepseek-ai) Web
 Requires DSH `>= 0.2.2-rc.3` with the Web GUI.
 
 ```bash
-dsh plugin add github:<your-account>/dsh-skills-inventory
+dsh plugin add github:silly-Richard/dsh-skills-inventory
 ```
 
 Or open **Plugins → Add plugin** in the Web UI and paste the repository URL. Then enable the bundle and reload the page.
@@ -69,7 +69,7 @@ The Web server binds loopback by default. Do not expose this host to an untruste
 ## Development
 
 ```bash
-git clone https://github.com/<your-account>/dsh-skills-inventory
+git clone https://github.com/silly-Richard/dsh-skills-inventory
 cd dsh-skills-inventory
 ```
 
