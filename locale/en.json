@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Skills",
+    "description": "A Skills page in the sidebar: lists every skill on this host and switches each one on or off for the model, without modifying any skill file."
+  }
+}
